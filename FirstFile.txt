@@ -1,0 +1,3 @@
+git status: git status to see the status of our working directory.
+git init: It will make your current directory as a repositprt.
+git add FirstFile.txt: This will start keeping truck the file caled FirstFile.txt
