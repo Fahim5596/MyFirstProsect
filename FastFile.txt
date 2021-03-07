@@ -1,0 +1,8 @@
+git status: git status to see the status of our working directory.
+git init: It will make your current directory as a repositprt.
+git add FirstFile.txt: This will start keeping truck the file caled Firs
+git commit -m "This is our first commit for FirstFile.txt".This will move the file 
+
+  git config --global user.email "ahmedfahim715@gmail.com"
+  git config --global user.name "Fahim Ahmed"
+
